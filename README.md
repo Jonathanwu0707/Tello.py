@@ -1,1 +1,11 @@
-# Tello.py
+# python-Tello-drone
+# python-Tello-drone
+# python-Tello-drone
+# python-Tello-drone
+"# Tello-python" 
+"# Tello-python" 
+"# Tello-python" 
+"# Tello-python" 
+# Tello-python
+# Tello-python
+# Tello-python
